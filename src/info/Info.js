@@ -37,7 +37,7 @@ export const info = {
     // },
     {
       emoji: "🌎",
-      text: "Based in Jakarta/Bali Indonesia",
+      text: "Based in Jakarta/Bali, Indonesia",
     },
     {
       emoji: "💼",
