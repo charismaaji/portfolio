@@ -60,7 +60,11 @@ export default function Navbar({ darkMode, handleClick }) {
               onClick={() => setActive(link.active)}
               className={Style.link}
             >
-              {!link.type && <p style={{ padding: "0.5rem 0" }}>{link.name}</p>}
+              {!link.type && (
+                <p style={{ padding: "0.5rem 0", textTransform: "capitalize" }}>
+                  {link.name}
+                </p>
+              )}
               {link.type && <h1>{link.name}</h1>}
             </Link>
           </Box>
