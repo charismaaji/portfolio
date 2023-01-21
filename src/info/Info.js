@@ -41,7 +41,7 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "React Native Developer at Simajji Concept",
+      text: "React Native Developer at TROOPR.APP",
     },
     {
       emoji: "📧",
@@ -82,17 +82,17 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hello! I'm Charisma. I'm a React Native Developer for Simajji Concept. I studied Compouter Engineer at Utel University, I enjoy coding not only for working but also for my hobby. I have been create many type of mobile application using React Native like marketplace, news portal, internal company apps, delivery apps, and many more. You should hire me!",
+  bio: "Hello! I'm Charisma. I'm a React Native Developer for TROOPR.APP, I enjoy coding not only for working but also for my hobby. I have been create many type of mobile application using React Native like marketplace, news portal, internal company apps, delivery apps, and many more. You should hire me!",
   skills: {
     proficientWith: [
       "javascript",
+      "typescript",
+      "react native",
       "react",
       "git",
       "github",
-      "react native",
       "firebase",
       "redux",
-      "typescript",
     ],
     exposedTo: ["java", "python", "ethical hacking"],
   },
