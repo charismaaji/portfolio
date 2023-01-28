@@ -50,6 +50,11 @@ export const info = {
   ],
   socials: [
     {
+      link: "https://www.linkedin.com/in/charisma-kurniawan-aji-12a7b4165/",
+      icon: "fa fa-linkedin",
+      label: "linkedin",
+    },
+    {
       link: "https://api.whatsapp.com/send?phone=6281213637289&text=Hi%20Charis%2C%20I%20have%20something%20to%20talk%20with%20you!",
       icon: "fa fa-whatsapp",
       label: "whatsapp",
@@ -65,9 +70,9 @@ export const info = {
       label: "facebook",
     },
     {
-      link: "https://www.linkedin.com/in/charisma-kurniawan-aji-12a7b4165/",
-      icon: "fa fa-linkedin",
-      label: "linkedin",
+      link: "https://www.youtube.com/@charismaaji",
+      icon: "fa fa-youtube",
+      label: "youtube",
     },
     {
       link: "https://github.com/charismaaji",
