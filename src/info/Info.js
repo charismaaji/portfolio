@@ -50,16 +50,6 @@ export const info = {
       label: "linkedin",
     },
     {
-      link: "https://www.instagram.com/charismaaji/",
-      icon: "fa fa-instagram",
-      label: "instagram",
-    },
-    {
-      link: "https://www.facebook.com/charis.jakmaniaii",
-      icon: "fa fa-facebook",
-      label: "facebook",
-    },
-    {
       link: "https://www.youtube.com/@charismaaji",
       icon: "fa fa-youtube",
       label: "youtube",
