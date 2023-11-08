@@ -49,11 +49,11 @@ export const info = {
       icon: "fa fa-linkedin",
       label: "linkedin",
     },
-    {
-      link: "https://api.whatsapp.com/send?phone=6281213637289&text=Hi%20Charis%2C%20I%20have%20something%20to%20talk%20with%20you!",
-      icon: "fa fa-whatsapp",
-      label: "whatsapp",
-    },
+    // {
+    //   link: "https://api.whatsapp.com/send?phone=6281213637289&text=Hi%20Charis%2C%20I%20have%20something%20to%20talk%20with%20you!",
+    //   icon: "fa fa-whatsapp",
+    //   label: "whatsapp",
+    // },
     {
       link: "https://www.instagram.com/charismaaji/",
       icon: "fa fa-instagram",
